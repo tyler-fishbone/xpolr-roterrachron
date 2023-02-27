@@ -45,7 +45,7 @@ function setup() {
   sunRadius = radius * .8
   moonRadius = radius * .7
   
-  faceImg = loadImage("https://i.ibb.co/q9JnbJd/face-1.png")
+  faceImg = loadImage("https://i.ibb.co/Wtbqwvp/face-3.png")
   earthImg = loadImage("https://i.ibb.co/JRjGqC5/earth-1.png")
   sunImg = loadImage("https://i.ibb.co/c3x6r0d/sun-1.png")
   moonImg = loadImage("https://i.ibb.co/VNVSPJG/moon-1.png")
